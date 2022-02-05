@@ -2,3 +2,6 @@
 # week1-assignment
 
 - XMLHttpRequest araştırılacak ve jsonplaceholder kullanılarak içerisindeki userlar console’a yazdırılacak.
+
+![image](https://user-images.githubusercontent.com/61635872/152655858-bfd19975-9dd6-44af-9ca9-7116a362fc4e.png)
+
